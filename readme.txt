@@ -7,6 +7,6 @@ git is a distribution version control system under the GPL
 git has mutable index called stage
 git tracks changes
 git tracks changes of files
-create a branch is quickly
+create a new branch is quickly AND simple
 
 test test test test test
