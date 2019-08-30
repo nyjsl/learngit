@@ -12,3 +12,11 @@ create a new branch is quickly and simple
 
 
 test test test test test
+
+i made commit one
+
+i made commit two
+
+i made commit three
+i made commit four
+
