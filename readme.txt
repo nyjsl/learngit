@@ -10,3 +10,11 @@ git tracks changes of files
 create a branch is quickly
 
 test test test test test
+
+i made commit one
+
+i made commit two
+
+i made commit three
+i made commit four
+
